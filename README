@@ -6,6 +6,7 @@ public static void main(String []args)
 {
 System.out.println("hii this is your first project");
 System.out.println("this print for next release");
+System.out.println("this print for next release");
 
 }
 
